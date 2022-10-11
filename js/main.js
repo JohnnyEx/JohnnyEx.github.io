@@ -73,7 +73,7 @@
   /* final countdown
    * ------------------------------------------------------ */
   var ssFinalCountdown = function () {
-    var finalDate = "2022/10/08 12:00:00";
+    var finalDate = "2022/10/21 12:00:00";
 
     $(".home-content__clock")
       .countdown(finalDate)
